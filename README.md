@@ -1,5 +1,7 @@
 # Competitiva
 
-#Integrantes:
-#-Galdos Rodriguez Emmanuel Samir
-#-Vilca Quispe Elias Cristhian
+Integrantes:
+
+-Galdos Rodriguez Emmanuel Samir
+
+-Vilca Quispe Elias Cristhian
