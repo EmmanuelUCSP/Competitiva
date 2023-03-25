@@ -1,0 +1,23 @@
+Complejidades:
+
+Ejercicio 1:
+
+Ejercicio 2: O(3)
+
+Ejercicio 3: O(4)
+
+Ejercicio 4: O(n) 
+
+Ejercicio 5: O(n)
+
+Ejercicio 6: O(3)
+
+Ejercicio 7: O(n^2)
+
+Ejercicio 8: O(2^n * n)
+
+Ejercicio 9: O(n * log(m))
+
+Ejercicio 10: O(n * m)
+
+Ejercicio 11: O(k * log^3(n))
