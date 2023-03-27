@@ -1,6 +1,6 @@
 Complejidades:
 
-Ejercicio 1:
+Ejercicio 1: O(1)
 
 Ejercicio 2: O(3)
 
